@@ -1,6 +1,6 @@
 # Problema de regresion COVID-19
 
-El cuaderno de Jupyter muestran el proceso de datos que se lleva a cabo para realizar la prediccion de muertes por el COVID-19 aplicando regresion lineal, maquinas de vector de soporte y la regresion lineal bayesiana, el objetivo de este trabajo es buscar cual de los algoritmos mencionados es mejor para la prediccion tomando en cuenta el tiempo de entrenamiento y las metricas de regresion las cuales con el error cuadratico medio (MSE) y el error absoluto medio (MAE).
+El cuaderno de Jupyter muestran el proceso de datos que se lleva a cabo para realizar la prediccion de muertes por el COVID-19 aplicando regresion lineal, maquinas de vector de soporte y la regresion lineal bayesiana, el objetivo de este trabajo es buscar cual de los algoritmos mencionados es mejor para la prediccion tomando en cuenta el tiempo de entrenamiento y las metricas de regresion las cuales son el error cuadratico medio (MSE) y el error absoluto medio (MAE).
 Los cuadernos proporcionan los siguientes flujos de trabajo.
 
   - Carga de los datasets
