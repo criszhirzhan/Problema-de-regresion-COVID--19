@@ -29,3 +29,8 @@ MIT
 
 
 # Referencias
+
+[[1]] Covid-19 Datasets. https://github.com/CSSEGISandData/COVID-19.
+
+
+[1]: https://github.com/CSSEGISandData/COVID-19
