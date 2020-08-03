@@ -25,7 +25,7 @@ Los cuadernos proporcionan los siguientes flujos de trabajo.
 License
 ----
 
-MIT
+
 
 
 # Referencias
