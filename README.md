@@ -3,6 +3,8 @@
 El cuaderno de Jupyter muestran el proceso de datos que se lleva a cabo para realizar el analisis y visualizacion de contagiados por el COVID-19 aplicando aprendizaje no supervisado por clustering.
 Los cuadernos proporcionan los siguientes flujos de trabajo.
 
+Debido a el dataset utilizado es demasiado pesado este se puede descargar en el siguiente link: https://www.covid19survivalcalculator.com/download
+
   - Carga de los datasets
   - Preprocesamiento  de los datos.
   - Entrenamiento del modelo.
